@@ -77,6 +77,12 @@
       "dependencies": {},
       "hash": "61962458dcd75068bd2324cf2ba5fc547d9e1ed8"
     },
+    "com.soratehk.sorafoundation": {
+      "version": "file:com.soratehk.sorafoundation",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.addressables": {
       "version": "2.8.1",
       "depth": 0,

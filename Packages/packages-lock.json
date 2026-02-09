@@ -35,6 +35,13 @@
       "dependencies": {},
       "hash": "7aea0cf62c7c628f8880b27e7f583c77d7774729"
     },
+    "com.cysharp.zlogger": {
+      "version": "https://github.com/Cysharp/ZLogger.git?path=src/ZLogger.Unity/Assets/ZLogger.Unity",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d1cae41df272687ce2fd17e923640b809bd90e3f"
+    },
     "com.github-glitchenzo.nugetforunity": {
       "version": "4.5.0",
       "depth": 0,

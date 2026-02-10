@@ -1,7 +1,47 @@
 {
     "name": "SoraFoundation",
-    "rootNamespace": "",
-    "references": [],
+    "rootNamespace": "SoraFoundation",
+    "references": [
+        "UniTask",
+        "UniTask.Addressables",
+        "UniTask.DOTween",
+        "UniTask.Linq",
+        "UniTask.TextMeshPro",
+        "UniTask.Editor",
+        "ZLinq.Unity",
+        "ZLinq.Unity.UnityCollectoins",
+        "ZLogger.Unity",
+        "ZString",
+        "MathfsAsmdef",
+        "Mathfs.Editor",
+        "SaintsField.Runtime",
+        "SaintsField.Runtime.Addressable",
+        "SaintsField.Runtime.Events",
+        "SaintsField.Runtime.I2Loc",
+        "SaintsField.Runtime.ScriptableRenderer",
+        "SaintsField.Runtime.Spine",
+        "SaintsField.Runtime.TypeReference",
+        "SaintsField.Runtime.Wwise",
+        "SaintsField.Editor",
+        "SaintsField.Editor.Addressable",
+        "SaintsField.Editor.AiNavigation",
+        "SaintsField.Editor.DOTweenDetectPanel",
+        "SaintsField.Editor.I2Loc",
+        "SaintsField.Editor.NetCode",
+        "SaintsField.Editor.ScriptableRenderer",
+        "SaintsField.Editor.Spine",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.ResourceManager",
+        "Unity.Collections",
+        "Unity.Collections.BurstCompatibilityGen",
+        "Unity.Collections.CodeGen",
+        "Unity.Collections.Editor",
+        "Unity.Localization",
+        "Unity.InternalAPIEngineBridge.013",
+        "Unity.Localization.Editor",
+        "Unity.InternalAPIEditorBridge.013"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -9,6 +49,37 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "USE_UNITASK"
+        },
+        {
+            "name": "com.cysharp.zlinq",
+            "expression": "",
+            "define": "USE_ZLINQ"
+        },
+        {
+            "name": "com.cysharp.zlogger",
+            "expression": "",
+            "define": "USE_ZLOGGER"
+        },
+        {
+            "name": "com.cysharp.zstring",
+            "expression": "",
+            "define": "USE_ZSTRING"
+        },
+        {
+            "name": "com.unity.addressables",
+            "expression": "",
+            "define": "USE_ADDRESSABLE"
+        },
+        {
+            "name": "com.unity.localization",
+            "expression": "",
+            "define": "USE_LOCALIZATION"
+        }
+    ],
     "noEngineReferences": false
 }

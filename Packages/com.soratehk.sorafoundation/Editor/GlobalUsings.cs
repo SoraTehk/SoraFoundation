@@ -1,1 +1,6 @@
-﻿global using UObject = UnityEngine.Object;
+﻿#if USE_ZLOGGER
+global using ILogger = Microsoft.Extensions.Logging.ILogger;
+#endif
+global using IuLogger = UnityEngine.ILogger;
+global using Object = System.Object;
+global using uObject = UnityEngine.Object;

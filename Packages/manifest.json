@@ -20,6 +20,7 @@
     "com.unity.test-framework": "1.6.0",
     "com.unity.timeline": "1.8.11",
     "com.unity.ugui": "2.0.0",
+    "com.wooshii.hierarchydecorator": "https://github.com/WooshiiDev/HierarchyDecorator.git",
     "jillejr.newtonsoft.json-for-unity.converters": "https://github.com/applejag/Newtonsoft.Json-for-Unity.Converters.git?path=Packages/Newtonsoft.Json-for-Unity.Converters",
     "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer",
     "com.unity.modules.accessibility": "1.0.0",

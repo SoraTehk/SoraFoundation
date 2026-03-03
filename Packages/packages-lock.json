@@ -311,6 +311,13 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.wooshii.hierarchydecorator": {
+      "version": "https://github.com/WooshiiDev/HierarchyDecorator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b69cf0d6a1b3441f828a94c78f85b2d42edc9418"
+    },
     "jillejr.newtonsoft.json-for-unity.converters": {
       "version": "https://github.com/applejag/Newtonsoft.Json-for-Unity.Converters.git?path=Packages/Newtonsoft.Json-for-Unity.Converters",
       "depth": 0,

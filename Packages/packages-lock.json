@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.acegikmo.mathfs": {
+      "version": "https://github.com/FreyaHolmer/Mathfs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d690f0ced7441a35243c66c4256ad84faf02ebb1"
+    },
     "com.cysharp.csprojmodifier": {
       "version": "https://github.com/Cysharp/CsprojModifier.git?path=src/CsprojModifier/Assets/CsprojModifier",
       "depth": 0,

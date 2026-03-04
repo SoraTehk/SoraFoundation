@@ -4,3 +4,8 @@ global using ILogger = Microsoft.Extensions.Logging.ILogger;
 global using IuLogger = UnityEngine.ILogger;
 global using Object = System.Object;
 global using uObject = UnityEngine.Object;
+
+// Editor namespace to avoid "using" compiler error
+namespace SoraTehk.Prepare {
+    internal class NamespaceHolder { }
+}

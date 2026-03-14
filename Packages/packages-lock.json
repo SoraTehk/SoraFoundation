@@ -70,6 +70,13 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.needle.console": {
+      "version": "https://github.com/needle-tools/needle-console.git?path=/package",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4aa7cc7c03654131a252b4ca2d5645f12c957d85"
+    },
     "com.seaeees.simple-folder-icon": {
       "version": "https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon",
       "depth": 0,

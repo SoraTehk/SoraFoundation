@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "3c9be1a827ce7a2e0d9518e34905fc2fc7a6d5df"
     },
+    "com.cysharp.memorypack": {
+      "version": "https://github.com/Cysharp/MemoryPack.git?path=src/MemoryPack.Unity/Assets/MemoryPack.Unity",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "612a4815eb5fbf2d67d4ee734fdb92793f8a1304"
+    },
     "com.cysharp.unitask": {
       "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
       "depth": 0,

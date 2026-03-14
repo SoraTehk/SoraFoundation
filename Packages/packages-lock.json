@@ -49,6 +49,13 @@
       "dependencies": {},
       "hash": "d1cae41df272687ce2fd17e923640b809bd90e3f"
     },
+    "com.cysharp.zstring": {
+      "version": "https://github.com/Cysharp/ZString.git?path=src/ZString.Unity/Assets/Scripts/ZString",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "419759ee3b6bb17a65cba1348c084d41680184ea"
+    },
     "com.github-glitchenzo.nugetforunity": {
       "version": "4.5.0",
       "depth": 0,
